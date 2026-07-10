@@ -97,7 +97,7 @@ Every single website visit follows this exact foundational pattern:
          ▼
 [Video Plays]
 
-
+---
 
 ## 5. Network Architecture Visualized
 Small Home Network Layout
