@@ -1,2 +1,2 @@
 # TryHackMe-Learning-Path
-A curated collection of notes, write-ups, and resources tracking my progress through various TryHackMe learning paths. This repository documents my hands-on cybersecurity training, covering fundamental networking, web application security, Linux privilege escalation, and penetration testing methodologies.
+A comprehensive security laboratory and engineering log documenting my hands-on journey through TryHackMe paths. Focused on deep-diving into core network protocols, Linux administration fundamentals, web architectures, and developing custom automation utilities rather than just collecting flags.
