@@ -128,7 +128,7 @@ The Data Chain:
 ``` 
 ---
 
-##6. Important Terms Reference
+## 6. Important Terms Reference
 Network: Connected devices communicating with each other.
 
 Internet: A vast network made from millions of smaller networks (a network of networks).
@@ -152,7 +152,7 @@ Examples: 192.168.x.x, 10.x.x.x, 172.16.x.x
 *ICMP (Internet Control Message Protocol): The underlying diagnostics protocol that ping uses to send Echo Requests and receive Echo Replies.
 
 ---
-##7. Real-World Scenario: The Coffee Shop
+## 7. Real-World Scenario: The Coffee Shop
 When you connect to a cafe's network:
 
 Your laptop receives a Private IP like 192.168.0.34.
@@ -161,7 +161,7 @@ The café router holds a single Public IP like 103.xxx.xxx.xxx.
 
 Every single customer in that coffee shop shares that exact same public IP to access the outside Internet.
 ---
-##8. Cybersecurity Perspectives
+## 8. Cybersecurity Perspectives
 
 🏴‍☠️ The Attacker's Perspective
 Before launching an attack, a hacker must map out the terrain by asking:
@@ -178,7 +178,7 @@ Can I flood this server to take it down?
 
 Common Concepts: Network scanning, ARP/MAC spoofing, Packet sniffing, DNS attacks, Man-in-the-Middle (MitM), and Distributed Denial-of-Service (DDoS).
 ---
-##🛡️ The Defender's Perspective
+## 🛡️ The Defender's Perspective
 To protect the perimeter, a defender must continuously monitor the traffic:
 
 Which specific device just connected to our network?
@@ -193,7 +193,7 @@ Why did network latency suddenly spike?
 
 Defensive Tools: Firewalls, Intrusion Detection Systems (IDS), Network segmentation, Packet analysis, and continuous monitoring.
 ---
-##9. Common Beginner Mistakes to Avoid
+## 9. Common Beginner Mistakes to Avoid
 | Mistake | Reality |
 | :--- | :--- |
 | **"Internet and Network mean the same thing."** | Wrong. The Internet is a network, but not every network is connected to the Internet. |
@@ -202,7 +202,7 @@ Defensive Tools: Firewalls, Intrusion Detection Systems (IDS), Network segmentat
 | **"Ping measures your Internet speed."** | Wrong. Ping measures latency (round-trip time in milliseconds), not your overall bandwidth download speed. |
 | **"Every device has its own unique public IP."** | Wrong. Most local devices sit securely behind a router sharing a single public IP. |
 ---
-##10. The Smart Revision Blueprint
+## 10. The Smart Revision Blueprint
 
    Connected Devices->Need Communication Rules(Protocols)->Identies
 
@@ -222,7 +222,7 @@ Defensive Tools: Firewalls, Intrusion Detection Systems (IDS), Network segmentat
 
 "MAC identifies the hardware, IP identifies the location."
 ---
-##11. Cyber Career Relevance
+## 11. Cyber Career Relevance
 | Mistake | Reality |
 | :--- | :--- |
 | **"Internet and Network mean the same thing."** | Wrong. The Internet is a network, but not every network is connected to the Internet. |
@@ -231,7 +231,7 @@ Defensive Tools: Firewalls, Intrusion Detection Systems (IDS), Network segmentat
 | **"Ping measures your Internet speed."** | Wrong. Ping measures latency (round-trip time in milliseconds), not your overall bandwidth download speed. |
 | **"Every device has its own unique public IP."** | Wrong. Most local devices sit securely behind a router sharing a single public IP. |
 ---
-##12. Common Interview Questions
+## 12. Common Interview Questions
 Use these questions to self-assess your understanding. If you can explain these clearly in your own words, you have mastered the basics:
 
 What is the technical difference between a local network and the global Internet?
